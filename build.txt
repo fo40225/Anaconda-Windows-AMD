@@ -1,0 +1,1 @@
+python setup.py config --compiler=intelemw --fcompiler=intelvem build_clib --compiler=intelemw --fcompiler=intelvem build_ext --compiler=intelemw --fcompiler=intelvem bdist_wheel
