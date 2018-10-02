@@ -2,158 +2,190 @@ processor	: 0
 physical id	: 0
 core id		: 0
 node_0 id	: 0
+node_1 id	: 0
 
 processor	: 1
 physical id	: 0
 core id		: 0
 node_0 id	: 0
+node_1 id	: 0
 
 processor	: 2
 physical id	: 0
 core id		: 1
 node_0 id	: 0
+node_1 id	: 0
 
 processor	: 3
 physical id	: 0
 core id		: 1
 node_0 id	: 0
+node_1 id	: 0
 
 processor	: 4
 physical id	: 0
 core id		: 2
 node_0 id	: 0
+node_1 id	: 0
 
 processor	: 5
 physical id	: 0
 core id		: 2
 node_0 id	: 0
+node_1 id	: 0
 
 processor	: 6
 physical id	: 0
 core id		: 3
 node_0 id	: 0
+node_1 id	: 0
 
 processor	: 7
 physical id	: 0
 core id		: 3
 node_0 id	: 0
+node_1 id	: 0
 
 processor	: 8
 physical id	: 0
 core id		: 4
 node_0 id	: 0
+node_1 id	: 1
 
 processor	: 9
 physical id	: 0
 core id		: 4
 node_0 id	: 0
+node_1 id	: 1
 
 processor	: 10
 physical id	: 0
 core id		: 5
 node_0 id	: 0
+node_1 id	: 1
 
 processor	: 11
 physical id	: 0
 core id		: 5
 node_0 id	: 0
+node_1 id	: 1
 
 processor	: 12
 physical id	: 0
 core id		: 6
 node_0 id	: 0
+node_1 id	: 1
 
 processor	: 13
 physical id	: 0
 core id		: 6
 node_0 id	: 0
+node_1 id	: 1
 
 processor	: 14
 physical id	: 0
 core id		: 7
 node_0 id	: 0
+node_1 id	: 1
 
 processor	: 15
 physical id	: 0
 core id		: 7
 node_0 id	: 0
+node_1 id	: 1
 
 processor	: 16
 physical id	: 0
 core id		: 8
 node_0 id	: 1
+node_1 id	: 0
 
 processor	: 17
 physical id	: 0
 core id		: 8
 node_0 id	: 1
+node_1 id	: 0
 
 processor	: 18
 physical id	: 0
 core id		: 9
 node_0 id	: 1
+node_1 id	: 0
 
 processor	: 19
 physical id	: 0
 core id		: 9
 node_0 id	: 1
+node_1 id	: 0
 
 processor	: 20
 physical id	: 0
 core id		: 10
 node_0 id	: 1
+node_1 id	: 0
 
 processor	: 21
 physical id	: 0
 core id		: 10
 node_0 id	: 1
+node_1 id	: 0
 
 processor	: 22
 physical id	: 0
 core id		: 11
 node_0 id	: 1
+node_1 id	: 0
 
 processor	: 23
 physical id	: 0
 core id		: 11
 node_0 id	: 1
+node_1 id	: 0
 
 processor	: 24
 physical id	: 0
 core id		: 12
 node_0 id	: 1
+node_1 id	: 1
 
 processor	: 25
 physical id	: 0
 core id		: 12
 node_0 id	: 1
+node_1 id	: 1
 
 processor	: 26
 physical id	: 0
 core id		: 13
 node_0 id	: 1
+node_1 id	: 1
 
 processor	: 27
 physical id	: 0
 core id		: 13
 node_0 id	: 1
+node_1 id	: 1
 
 processor	: 28
 physical id	: 0
 core id		: 14
 node_0 id	: 1
+node_1 id	: 1
 
 processor	: 29
 physical id	: 0
 core id		: 14
 node_0 id	: 1
+node_1 id	: 1
 
 processor	: 30
 physical id	: 0
 core id		: 15
 node_0 id	: 1
+node_1 id	: 1
 
 processor	: 31
 physical id	: 0
 core id		: 15
 node_0 id	: 1
+node_1 id	: 1
