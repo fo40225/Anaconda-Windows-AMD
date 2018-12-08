@@ -20,55 +20,56 @@ git checkout d2a81d04352427437e6e383654cfbd36e99c5ae9
 ## AMD Ryzen Threadripper 1950X / DDR4-3000 16GB x8
 
 ### Anaconda3 5.3.0 stock
+
 	python -m ibench run -b all --size small --runs 3 --file stock.out
 	Cholesky:
 	Cholesky:   N = 10000
-	Cholesky:   elapsed 2.452964 gflops 135.890032
-	Cholesky:   elapsed 2.406248 gflops 138.528248
-	Cholesky:   elapsed 2.375005 gflops 140.350553
-	Cholesky:   gflops 138.528248
+	Cholesky:   elapsed 2.484062 gflops 134.188816
+	Cholesky:   elapsed 2.406784 gflops 138.497386
+	Cholesky:   elapsed 2.400488 gflops 138.860632
+	Cholesky:   gflops 138.497386
 	Det:
 	Det:   N = 15000
-	Det:   elapsed 14.999864 gflops 150.001357
-	Det:   elapsed 14.687488 gflops 153.191611
-	Det:   elapsed 15.187511 gflops 148.148039
-	Det:   gflops 150.001357
+	Det:   elapsed 14.756857 gflops 152.471493
+	Det:   elapsed 14.800440 gflops 152.022509
+	Det:   elapsed 14.863747 gflops 151.375016
+	Det:   gflops 152.022509
 	Dot:
 	Dot:   N = 5000
-	Dot:   elapsed 1.671851 gflops 149.534821
-	Dot:   elapsed 1.796890 gflops 139.129290
-	Dot:   elapsed 1.687488 gflops 148.149216
-	Dot:   gflops 148.149216
+	Dot:   elapsed 1.616570 gflops 154.648468
+	Dot:   elapsed 1.627373 gflops 153.621776
+	Dot:   elapsed 1.656741 gflops 150.898671
+	Dot:   gflops 153.621776
 	Fft:
 	Fft:   N = 520000
-	Fft:   elapsed 17.312503 gflops 2.851650
-	Fft:   elapsed 17.859395 gflops 2.764326
-	Fft:   elapsed 17.968908 gflops 2.747479
-	Fft:   gflops 2.764326
+	Fft:   elapsed 16.759679 gflops 2.945712
+	Fft:   elapsed 16.716451 gflops 2.953330
+	Fft:   elapsed 16.432786 gflops 3.004311
+	Fft:   gflops 2.953330
 	Inv:
 	Inv:   N = 10000
-	Inv:   elapsed 27.281224 gflops 73.310494
-	Inv:   elapsed 27.906256 gflops 71.668518
-	Inv:   elapsed 28.312495 gflops 70.640190
-	Inv:   gflops 71.668518
+	Inv:   elapsed 22.401015 gflops 89.281669
+	Inv:   elapsed 28.812820 gflops 69.413546
+	Inv:   elapsed 27.233067 gflops 73.440131
+	Inv:   gflops 73.440131
 	Lu:
 	Lu:   N = 20000
-	Lu:   elapsed 42.062671 gflops 126.794928
-	Lu:   elapsed 42.406072 gflops 125.768151
-	Lu:   elapsed 42.171893 gflops 126.466540
-	Lu:   gflops 126.466540
+	Lu:   elapsed 42.628870 gflops 125.110831
+	Lu:   elapsed 42.829375 gflops 124.525128
+	Lu:   elapsed 42.421509 gflops 125.722385
+	Lu:   gflops 125.110831
 	Qr:
 	Qr:   N = 5000
-	Qr:   elapsed 2.671874 gflops 62.378195
-	Qr:   elapsed 2.562487 gflops 65.040971
-	Qr:   elapsed 2.531252 gflops 65.843559
-	Qr:   gflops 65.040971
+	Qr:   elapsed 2.291327 gflops 72.738046
+	Qr:   elapsed 2.293999 gflops 72.653316
+	Qr:   elapsed 2.257312 gflops 73.834135
+	Qr:   gflops 72.738046
 	Svd:
 	Svd:   N = 5000
-	Svd:   elapsed 23.796755 gflops 7.003756
-	Svd:   elapsed 24.046863 gflops 6.930911
-	Svd:   elapsed 24.109386 gflops 6.912937
-	Svd:   gflops 6.930911
+	Svd:   elapsed 23.269604 gflops 7.162420
+	Svd:   elapsed 23.293875 gflops 7.154957
+	Svd:   elapsed 23.867465 gflops 6.983007
+	Svd:   gflops 7.154957
 
 ### Anaconda3 5.3.0 patched
 
